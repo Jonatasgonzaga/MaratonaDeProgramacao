@@ -1,0 +1,7 @@
+E:\jonat\Documents\VS\AcordesIntergalacticos\AcordesIntergalacticos\obj\Debug\AcordesIntergalacticos.csprojResolveAssemblyReference.cache
+E:\jonat\Documents\VS\AcordesIntergalacticos\AcordesIntergalacticos\obj\Debug\AcordesIntergalacticos.csproj.CoreCompileInputs.cache
+E:\jonat\Documents\VS\AcordesIntergalacticos\AcordesIntergalacticos\bin\Debug\AcordesIntergalacticos.exe.config
+E:\jonat\Documents\VS\AcordesIntergalacticos\AcordesIntergalacticos\bin\Debug\AcordesIntergalacticos.exe
+E:\jonat\Documents\VS\AcordesIntergalacticos\AcordesIntergalacticos\bin\Debug\AcordesIntergalacticos.pdb
+E:\jonat\Documents\VS\AcordesIntergalacticos\AcordesIntergalacticos\obj\Debug\AcordesIntergalacticos.exe
+E:\jonat\Documents\VS\AcordesIntergalacticos\AcordesIntergalacticos\obj\Debug\AcordesIntergalacticos.pdb
