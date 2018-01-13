@@ -1,0 +1,7 @@
+E:\jonat\Documents\VS\BicicletaErgometrica\BicicletaErgometria\BicicletaErgometria\bin\Debug\BicicletaErgometria.exe.config
+E:\jonat\Documents\VS\BicicletaErgometrica\BicicletaErgometria\BicicletaErgometria\bin\Debug\BicicletaErgometria.exe
+E:\jonat\Documents\VS\BicicletaErgometrica\BicicletaErgometria\BicicletaErgometria\bin\Debug\BicicletaErgometria.pdb
+E:\jonat\Documents\VS\BicicletaErgometrica\BicicletaErgometria\BicicletaErgometria\obj\Debug\BicicletaErgometria.csproj.CoreCompileInputs.cache
+E:\jonat\Documents\VS\BicicletaErgometrica\BicicletaErgometria\BicicletaErgometria\obj\Debug\BicicletaErgometria.exe
+E:\jonat\Documents\VS\BicicletaErgometrica\BicicletaErgometria\BicicletaErgometria\obj\Debug\BicicletaErgometria.pdb
+E:\jonat\Documents\VS\BicicletaErgometrica\BicicletaErgometria\BicicletaErgometria\obj\Debug\BicicletaErgometria.csprojResolveAssemblyReference.cache
